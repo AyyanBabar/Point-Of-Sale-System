@@ -1,0 +1,2 @@
+<CNIC><Name><Address><Phone><Email><Type><AmountPayable><SalesLimit>
+36603-1234567-5;Ali Haider;38GT Rd,Okara;03000300000;ali.haider@gmail.com;1;0;40000

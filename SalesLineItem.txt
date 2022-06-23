@@ -1,0 +1,4 @@
+<LineNo><Sales><Item><Quantity>
+1;1;00123;2
+2;1;1000S;10
+3;2;1000S;2

@@ -1,0 +1,3 @@
+<ReceiptNo><ReceiptDate><Sales><Amount>
+1;10/04/2020;1;2080
+4;15/04/2020;2;156
